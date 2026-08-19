@@ -2,6 +2,7 @@
 Python 3.10 or later
 
 # my_git_tutorial
+A tiny repo for practicing Git.
 Git practice repository
 
 ## Usage
